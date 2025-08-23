@@ -33,3 +33,7 @@ Temporary Items
 
 # Logs
 **/*.log
+
+# Access Keys
+**/AWS*.cfg
+**/AirFlow*.cfg
